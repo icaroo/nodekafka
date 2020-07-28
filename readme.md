@@ -1,3 +1,7 @@
+
+This repository contains projects to use Cloudkarafka with NodeJS, the samples were extrated from Lucas Jellma workshop. 
+
+
 Origin content [Git repo on GitHub](https://github.com/AMIS-Services/kafka-introduction-workshop). by [Lucas Jellma](https://github.com/lucasjellema)
 
 
