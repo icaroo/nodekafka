@@ -1,3 +1,6 @@
+Origin content [Git repo on GitHub](https://github.com/AMIS-Services/kafka-introduction-workshop). by [Lucas Jellma](https://github.com/lucasjellema)
+
+
 # Lab 2 - Programmatic interaction with Apache Kafka
 
 In the previous lab, you have produced and consumed messages manually, using Kafka Console and the Apache Kafka HQ GUI. In this lab, you will also produce and consume messages - this time in a programmatic way. You will use the Apache Kafka platform that you have prepared prior to the workshop using [the instructions on the environment](../environment/readme.md) as well as the Node run time environment.
